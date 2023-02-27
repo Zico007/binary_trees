@@ -1,2 +1,6 @@
 bin
 [0-9]*-main.c
+binary_tree_print
+1-left
+2-right
+3-del
